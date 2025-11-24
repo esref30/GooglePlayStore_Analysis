@@ -3,11 +3,8 @@
 - #### GooglePlayStore veri seti üzerinde analizler gerçekleştirilmiştir.Ayrıyetten veriler düzenli hale getirilip veri temizleme işlemi yapılmıştır.Elde edilen analizler görselleştirilmiştir
 
 ### Kullanılan Araçlar
+
 - #### Python ve veri analizi kütüphaneleri kullanılmıştır
-
-
-
-
 
 
 
